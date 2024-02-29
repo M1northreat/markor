@@ -10,6 +10,11 @@
 <b>Text editor - Notes &amp; ToDo (for Android)</b>.
 <br/>Simple and lightweight, supporting Markdown, todo.txt, Zim & more!<br/><br/>
 
+<a href="https://scan.coverity.com/projects/markor-testing">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/29831/badge.svg"/>
+</a>
+
 **Download:**  [F-Droid](https://f-droid.org/repository/browse/?fdid=net.gsantner.markor), [GitHub](https://github.com/gsantner/markor/releases/latest)
 
 Markor is a TextEditor for Android.
